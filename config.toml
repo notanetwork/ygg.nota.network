@@ -1,0 +1,4 @@
+baseURL = 'https://ygg.nota.network'
+languageCode = 'en-us'
+title = 'nota.network'
+theme = 'ace'
