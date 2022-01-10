@@ -9,7 +9,9 @@ and security of these networks. For yggdrasil, we operate the following nodes:
 ## United Kingdom
 ### London
     tcp://lhr-01.ygg.nota.network:80
+    tcp://lhr-02.ygg.nota.network:80
     tls://lhr-01.ygg.nota.network:443
+    tls://lhr-02.ygg.nota.network:443
 
 ## Europe
 ### Amsterdam (NL)
