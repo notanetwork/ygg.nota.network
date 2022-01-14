@@ -21,3 +21,8 @@ and security of these networks. For yggdrasil, we operate the following nodes:
 ### Frankfurt (DE)
     tcp://fra-01.ygg.nota.network:80
     tls://fra-01.ygg.nota.network:443
+
+## North America
+### Fremont
+    tcp://fmt-01.ygg.nota.network:80
+    tls://fmt-01.ygg.nota.network:443
