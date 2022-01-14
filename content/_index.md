@@ -18,6 +18,10 @@ and security of these networks. For yggdrasil, we operate the following nodes:
     tcp://ams-01.ygg.nota.network:80
     tls://ams-01.ygg.nota.network:443
 
+### Bissen (LU)
+    tcp://lux-01.ygg.nota.network:80
+    tls://lux-01.ygg.nota.network:443
+
 ### Frankfurt (DE)
     tcp://fra-01.ygg.nota.network:80
     tls://fra-01.ygg.nota.network:443
